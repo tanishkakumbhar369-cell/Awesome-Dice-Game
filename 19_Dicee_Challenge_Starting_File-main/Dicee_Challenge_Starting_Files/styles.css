@@ -1,0 +1,70 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.scoreboard {
+  margin-top: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+.scoreboard h2 {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
+.scoreboard p {
+  display: inline-block;
+  margin: 0 1rem 1rem;
+  font-size: 1.5rem;
+}
+
+#reset-scores {
+  display: block;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  border: 0;
+  border-radius: 4px;
+  background-color: #4ECCA3;
+  color: #232931;
+  cursor: pointer;
+  font: inherit;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
