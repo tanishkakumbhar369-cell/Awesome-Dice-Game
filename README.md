@@ -1,5 +1,4 @@
 # Awesome-Dice-Game
-# Awesome Dice Game
 
 Welcome to Awesome Dice Game — a fast, fun dice-rolling game for players of all ages! This README explains how to play, the objective, basic controls, scoring, and tips so you can jump right in and start having fun.
 
